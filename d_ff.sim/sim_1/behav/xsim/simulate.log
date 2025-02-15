@@ -1,0 +1,44 @@
+Time resolution is 1 ps
+Stimulus: din = 0 at time 5000
+PASS: Reset working, dout not equal to din at time 6000
+Stimulus: din = 1 at time 15000
+PASS: din = 1, dout = 1 at time 16000
+Stimulus: din = 1 at time 25000
+PASS: din = 6, dout = 6 at time 26000
+Stimulus: din = 6 at time 35000
+PASS: din = 6, dout = 6 at time 36000
+Reset asserted at time 40000
+Stimulus: din = 6 at time 45000
+PASS: Reset working, dout not equal to din at time 46000
+Stimulus: din = 4 at time 55000
+PASS: Reset working, dout not equal to din at time 56000
+Stimulus: din = 4 at time 65000
+PASS: Reset working, dout not equal to din at time 66000
+Reset deasserted at time 70000
+Stimulus: din = 2 at time 75000
+PASS: din = 5, dout = 5 at time 76000
+Stimulus: din = 5 at time 85000
+PASS: din = 6, dout = 6 at time 86000
+Stimulus: din = 6 at time 95000
+PASS: din = 0, dout = 0 at time 96000
+Stimulus: din = 0 at time 105000
+PASS: din = 3, dout = 3 at time 106000
+Stimulus: din = 3 at time 115000
+PASS: din = 2, dout = 2 at time 116000
+Stimulus: din = 2 at time 125000
+PASS: din = 5, dout = 5 at time 126000
+Stimulus: din = 5 at time 135000
+PASS: din = 6, dout = 6 at time 136000
+Stimulus: din = 6 at time 145000
+PASS: din = 0, dout = 0 at time 146000
+Stimulus: din = 0 at time 155000
+PASS: din = 3, dout = 3 at time 156000
+Stimulus: din = 3 at time 165000
+PASS: din = 6, dout = 6 at time 166000
+Stimulus: din = 6 at time 175000
+PASS: din = 3, dout = 3 at time 176000
+Stimulus: din = 3 at time 185000
+PASS: din = 5, dout = 5 at time 186000
+Stimulus: din = 5 at time 195000
+PASS: din = 3, dout = 3 at time 196000
+$finish called at time : 200 ns : File "D:/Vivado/d_ff/d_ff.srcs/sim_1/new/dff_tb_top.sv" Line 66
